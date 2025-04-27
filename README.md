@@ -10,14 +10,14 @@ fun-with-java
 │   ├── main
 │   │   ├── java
 │   │   │   └── com
-│   │   │       └── example
+│   │   │       └── soupy
 │   │   │           └── problems
 │   │   │               └── Main.java
 │   │   └── resources
 │   └── test
 │       ├── java
 │       │   └── com
-│       │       └── example
+│       │       └── soupy
 │       │           └── problems
 │       │               └── MainTest.java
 │       └── resources
